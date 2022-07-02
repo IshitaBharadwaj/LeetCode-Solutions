@@ -1,1 +1,1 @@
-​
+Be careful about empty nums array or a nums array that doesn't have value and at all
