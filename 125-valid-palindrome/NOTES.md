@@ -1,0 +1,1 @@
+Take care of case (upper case) of string
